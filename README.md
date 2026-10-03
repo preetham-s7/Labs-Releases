@@ -1,0 +1,1 @@
+CycloSim Labs desktop release files. This public repository contains installer assets used by the in-app updater.
